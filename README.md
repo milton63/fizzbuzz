@@ -12,6 +12,9 @@
     $ source venv/bin/activate
     $ pip install -r requirements.txt
     $ pytest
+    ...
+    =============================== 4 failed, 1 passed in 0.03s ===============================
+
 
 ## Algorithm
 
